@@ -1,0 +1,9 @@
+.registerForm{
+    max-width: 500px;
+    margin: auto;
+    /* height: 250px; */
+    /* font-weight: bold; */
+    /* font-size: 1.2rem; */
+}
+
+.col{margin-top: auto;}
